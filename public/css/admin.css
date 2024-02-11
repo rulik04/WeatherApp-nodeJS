@@ -1,0 +1,57 @@
+:root{
+    --background: #131214;  
+    --surface: #1D1C1F;
+    --on-surface: #DDDAE5;
+    --black-alpha-10: hsla(0, 0%, 0%, 0.1);
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito Sans', sans-serif;
+    background-color: var(--background);
+    color: white;
+}
+
+
+.modal-content{
+    background-color: var(--surface);
+}
+
+label, input{
+    margin-bottom: 5px;
+}
+
+
+#userCont {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px; 
+    background-color: var(--surface); 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+
+table {
+    width: 100%; 
+    border-collapse: collapse; 
+    margin-top: 20px; 
+}
+
+th,  td {
+    padding: 10px; 
+    border-bottom: 1px solid #ddd; 
+}
+
+table th {
+    background-color: var(--surface);
+}
+
+
+.btn {
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer; 
+    border-radius: 4px;
+}
+
