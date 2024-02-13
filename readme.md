@@ -12,7 +12,7 @@ ClimaCast is a weather forecast application that provides current weather inform
 - [Technologies Used](#technologies-used)
 - [Environment Variables (.env)](#environment-variables)
 - [Admin Credentials for Website Login](#admin-credentials-for-website-login)
-- [Heroku Deployed Link](#Heroku-deployed-link)
+
 
 ## Getting Started
 
@@ -77,9 +77,3 @@ To access the admin features of the website, you can use the following credentia
 
 - **Username:** Rulan
 - **Password:** 55810579
-
-### Heroku Deployed Link
-
-You can access the live deployment of the WeatherApp application on Heroku via the following link:
-
-[WeatherApp - Live Deployment](https://weatherapp-js-dd07c30ecd64.herokuapp.com/main)
